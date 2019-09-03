@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="margin">10dp</dimen>
+    <dimen name="margin_bottom" tools:keep="@dimen/margin_bottom">25dp</dimen>
+    <dimen name="textLarge">30sp</dimen>
+    <dimen name="height">60dp</dimen>
+</resources>
